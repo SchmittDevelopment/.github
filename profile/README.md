@@ -5,65 +5,107 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="LOGO_URL_HERE" alt="SchmittDEV Logo" width="120" />
+  <img src="LOGO_URL_HERE" alt="SchmittDEV Logo" width="140" />
 </p>
 
-<h1 align="center">Welcome to SchmittDEV 👋</h1>
+<h1 align="center">SchmittDEV</h1>
 <p align="center">
-  <b>Innovative software solutions</b> built with passion and modern technologies.
+  <b>Innovative software solutions for the modern world</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SchmittDevelopment">
+    <img src="https://img.shields.io/github/followers/SchmittDevelopment?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SchmittDevelopment">
+    <img src="https://img.shields.io/github/stars/SchmittDevelopment?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SchmittDevelopment">
+    <img src="https://img.shields.io/badge/Org-Since%202025-00C6FF?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About SchmittDEV
-SchmittDEV is all about crafting **clean**, **scalable**, and **future-proof software**.  
-From small automation tools to full-stack web applications – our goal is to deliver solutions that **work seamlessly** and **look amazing**.
+## 🚀 About Us
+At **SchmittDevelopment**, we focus on creating **modern, powerful, and user-friendly software solutions**.  
+From **web development** to **cross-platform desktop apps** and **mobile experiences**,  
+our mission is to provide tools that **simplify workflows** and **empower businesses**.
+
+We specialize in:
+- 🌐 **Web Development** – Responsive, scalable, and modern web apps.
+- 🖥️ **Electron Apps** – Seamless cross-platform desktop software.
+- 📱 **Flutter Development** – Native-like experiences for iOS & Android.
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Development-00C6FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-Desktop%20Apps-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Integration-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SchmittDevelopment&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchmittDevelopment&theme=radical" alt="GitHub Streak" height="160" />
-</p>
+<!--## 📂 Featured Projects
 
----
-
-<!--## 🧩 Featured Projects
 | Project | Description | Tech |
 |----------|-------------|------|
-| **[Jellydesk](https://github.com/YOUR_GITHUB_USERNAME/jellydesk)** | A modern productivity tool designed for teams. | React, Node.js, PostgreSQL |
-| **Project 2** | Description of your second project. | Tech Stack |
+| **[Jellydesk](https://github.com/SchmittDevelopment/jellydesk)** | A modern productivity platform built with web technologies and Electron. | Electron, Web Stack |
+| **[Mobile Companion App](https://github.com/SchmittDevelopment)** | Flutter-based mobile app for seamless task management on the go. | Flutter, API Integration |
+| **[Internal Dev Tools](https://github.com/SchmittDevelopment)** | Internal tools designed to speed up our development process. | Node.js, Electron |
+
+---
+
+## 📊 Organization Stats
+<p align="center">
+  <a href="https://github.com/SchmittDevelopment?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-5-00C6FF?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SchmittDevelopment/jellydesk/issues">
+    <img src="https://img.shields.io/github/issues/SchmittDevelopment/jellydesk?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/SchmittDevelopment/jellydesk/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/SchmittDevelopment/jellydesk?style=for-the-badge" />
+  </a>
+</p>
+
+> ℹ️ These badges update automatically and display live organization stats.
 
 --- -->
 
-## 📬 Connect With Me
+## 🤝 Join the Community
+We welcome **contributors**, **designers**, and **developers** to collaborate with us.
+
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <a href="https://github.com/SchmittDevelopment">
+    <img src="https://img.shields.io/badge/Join%20Us%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</p>
+
+---
+
+## 📬 Connect With Us
+<p align="center">
+  <a href="https://github.com/SchmittDevelopment">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:mail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
+  <!--<a href="https://linkedin.com/company/YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>-->
 </p>
 
 ---
 
 <p align="center">
   Made with ❤️ by <b>SchmittDEV</b>
+</p>
+<p align="center">
+  Made with ❤️ in <b>Bavaria</b>
 </p>
