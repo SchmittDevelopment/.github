@@ -50,17 +50,17 @@ We specialize in:
 
 ---
 
-<!--## 📂 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| **[Jellydesk](https://github.com/SchmittDevelopment/jellydesk)** | A modern productivity platform built with web technologies and Electron. | Electron, Web Stack |
-| **[Mobile Companion App](https://github.com/SchmittDevelopment)** | Flutter-based mobile app for seamless task management on the go. | Flutter, API Integration |
+| **[Jellydesk](https://github.com/JellyDesk)** | A modern productivity platform built with web technologies and Electron. | Electron, Web Stack |<!--
+<!--| **[Mobile Companion App](https://github.com/SchmittDevelopment)** | Flutter-based mobile app for seamless task management on the go. | Flutter, API Integration |
 | **[Internal Dev Tools](https://github.com/SchmittDevelopment)** | Internal tools designed to speed up our development process. | Node.js, Electron |
 
 ---
 
-## 📊 Organization Stats
+<!--## 📊 Organization Stats
 <p align="center">
   <a href="https://github.com/SchmittDevelopment?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-5-00C6FF?style=for-the-badge&logo=github" />
