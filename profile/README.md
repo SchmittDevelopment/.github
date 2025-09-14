@@ -1,12 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_URL_HERE" alt="SchmittDEV Banner" width="100%" />
+  <img src="http://cdn.schmittdev.org/logo/banner.gif" alt="SchmittDEV Banner" width="100%" />
 </p>
 
-<!-- Logo -->
-<p align="center">
-  <img src="LOGO_URL_HERE" alt="SchmittDEV Logo" width="140" />
-</p>
 
 <h1 align="center">SchmittDEV</h1>
 <p align="center">
