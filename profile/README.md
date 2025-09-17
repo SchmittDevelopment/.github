@@ -50,9 +50,9 @@ We specialize in:
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| **[Jellydesk](https://github.com/JellyDesk)** | A modern productivity platform built with web technologies and Electron. | Electron, Web Stack |<!--
-<!--| **[Mobile Companion App](https://github.com/SchmittDevelopment)** | Flutter-based mobile app for seamless task management on the go. | Flutter, API Integration |
-| **[Internal Dev Tools](https://github.com/SchmittDevelopment)** | Internal tools designed to speed up our development process. | Node.js, Electron |
+| **[Jellydesk](https://github.com/JellyDesk)** | A modern productivity platform built with web technologies and Electron. | Electron, Web Stack 
+| **[StreamForge]([https://github.com/SchmittDevelopment](https://github.com/SchmittDevelopment/StreamForge))** | A Node.js IPTV Middleware| NodeJS |
+<!--| **[Internal Dev Tools](https://github.com/SchmittDevelopment)** | Internal tools designed to speed up our development process. | Node.js, Electron |
 
 ---
 
